@@ -5,6 +5,12 @@ Este repositório contém um projeto simples em JavaScript para calcular a sequ�
 
 O projeto consiste em um código em JavaScript que calcula os primeiros termos da sequência de Fibonacci e os exibe no terminal.
 
+## Capturas de Tela
+*Página Inicial*
+![Captura de tela da página inicial](fibonacci.png)
+
+![Captura de tela da página inicial](fibonacci.png)
+
 ## Tecnologias Utilizadas
 
 - **JavaScript:** Linguagem de programação utilizada para desenvolver a lógica do cálculo da sequência de Fibonacci.
