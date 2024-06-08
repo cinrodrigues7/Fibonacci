@@ -9,7 +9,7 @@ O projeto consiste em um código em JavaScript que calcula os primeiros termos d
 *Página Inicial*
 ![Captura de tela da página inicial](fibonacci.png)
 
-*Resultado da sequência de Fibonacci no número 7*
+*Resultado da sequência de Fibonacci do número 7.*
 
 ![Captura de tela da página inicial](fibonacci.png)
 
